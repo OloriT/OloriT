@@ -1,16 +1,19 @@
-### Hi there 👋
+## About Me
 
-<!--
-**OloriT/OloriT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Taiwo Olori, a Quality Assurance Engineer with a passion for ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
 
-Here are some ideas to get you started:
+**Key Skills:**
+- Test Automation (Selenium, Appium, etc.)
+- Test Planning and Strategy
+- Manual Testing and Bug Tracking
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Test Case Design and Execution
+- Agile/Scrum Methodologies
+- Performance Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to delivering high-quality software by identifying and addressing issues early in the development lifecycle. My goal is to contribute to projects that make a positive impact and empower teams to produce reliable and efficient software solutions.
+
+Feel free to connect with me to discuss software quality, automation, or any exciting opportunities for collaboration.
+
+[LinkedIn](https://www.linkedin.com/in/taiwo-olori-764189103/)
+[Email](mailto:oloritaiwo@gmail.com)
