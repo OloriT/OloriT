@@ -19,7 +19,11 @@ I'm dedicated to delivering high-quality software by identifying and addressing 
     <img src="https://github.com/OloriT/OloriT/blob/main/linkedin.svg" alt="LinkedIn" width="24" height="24">
   </a>
     <a href="mailto:oloritaiwo@gmail.com" target="_blank">
-    <img src="https://github.com/OloriT/OloriT/blob/main/envelope-solid.svg" alt="LinkedIn" width="24" height="24">
+    <img src="https://github.com/OloriT/OloriT/blob/main/envelope-solid.svg" alt="Email" width="24" height="24">
+  </a>
+    </a>
+    <a href="https://drive.google.com/file/d/1AN0kH_GebpS7KbPyp-6KhTFhsGnU6cKQ/view?usp=sharing" target="_blank">
+    <img src="https://github.com/OloriT/OloriT/blob/main/resume-4-svgrepo-com.svg" alt="Resume" width="24" height="24">
   </a>
 </p>
 
