@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Taiwo Olori, a Quality Assurance Engineer passionate about ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
+Hello, I'm Taiwo Olori, a Product Quality Assurance Engineer passionate about ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
 
 **Key Skills:**
 - Test Automation (Selenium, Appium, etc.)
