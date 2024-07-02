@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Taiwo Olori, a Quality Assurance Engineer with a passion for ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
+Hello, I'm Taiwo Olori, a Quality Assurance Engineer passionate about ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
 
 **Key Skills:**
 - Test Automation (Selenium, Appium, etc.)
@@ -11,7 +11,7 @@ Hello, I'm Taiwo Olori, a Quality Assurance Engineer with a passion for ensuring
 - Agile/Scrum Methodologies
 - Performance Testing
 
-I'm dedicated to delivering high-quality software by identifying and addressing issues early in the development lifecycle. My goal is to contribute to projects that make a positive impact and empower teams to produce reliable and efficient software solutions.
+I'm dedicated to delivering high-quality software by identifying and addressing issues early in the development lifecycle. I aim to contribute to projects that positively impact and empower teams to produce reliable and efficient software solutions.
 
 <!-- LinkedIn Icon and Link -->
 <p align="left">
@@ -22,7 +22,7 @@ I'm dedicated to delivering high-quality software by identifying and addressing 
     <img src="https://github.com/OloriT/OloriT/blob/main/envelope-solid.svg" alt="Email" width="24" height="24">
   </a>
     </a>
-    <a href="https://drive.google.com/file/d/1AN0kH_GebpS7KbPyp-6KhTFhsGnU6cKQ/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1CPLhqqUwEAmuAktg_cDsyIYIwqeGvjAp/view?usp=sharing" target="_blank">
     <img src="https://github.com/OloriT/OloriT/blob/main/resume-4-svgrepo-com.svg" alt="Resume" width="24" height="24">
   </a>
 </p>
