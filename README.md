@@ -3,14 +3,14 @@
 Hello, I'm Taiwo Olori, a Product Quality Assurance Engineer passionate about ensuring software excellence. I have a strong background in software testing methodologies, test automation, and quality assurance processes.
 
 **Key Skills:**
-- Test Automation (Cypress,Selenium, Appium, etc.)
+- Test Automation (Playwright, Cypress,Selenium, Appium, etc.)
 - Database Querying(PostgreSQL, MySQL)
 - Test Planning and Strategy
 - Manual Testing and Bug Tracking
-- Continuous Integration/Continuous Deployment (CI/CD)
+- Continuous Integration/Continuous Deployment (Jenkins, GitHub Workflow)
 - Test Case Design and Execution
 - Agile/Scrum Methodologies
-- Performance Testing
+- Performance Testing (JMeter, K6)
 
 I'm dedicated to delivering high-quality software by identifying and addressing issues early in the development lifecycle. I aim to contribute to projects that positively impact and empower teams to produce reliable and efficient software solutions.
 
